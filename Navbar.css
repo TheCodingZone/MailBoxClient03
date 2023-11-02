@@ -1,0 +1,17 @@
+.navbar{
+    
+    background-color: rgb(25, 189, 230);
+    font-weight: bold;
+    font-style: oblique;
+  }
+  .title{
+    color: grey;
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+    font-size: large;
+  }
+  .nav-item .nav-link{
+    color: antiquewhite;
+  
+  }
+  
